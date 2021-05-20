@@ -1,5 +1,7 @@
 # UVA-100-The-3n-1-Problem
 
+Solved Using ASSEMBLY.
+
 Problems in Computer Science are often classified as belonging to a certain class of problems (e.g.,
 NP, Unsolvable, Recursive). In this problem you will be analyzing a property of an algorithm whose
 classification is not known for all possible inputs.
@@ -47,6 +49,7 @@ Sample Input
 100 200
 201 210
 900 1000
+
 Sample Output
 1 10 20
 100 200 125
